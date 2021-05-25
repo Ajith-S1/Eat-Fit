@@ -1,5 +1,14 @@
 /* General */
 
+.Home {
+    color: rgb(219, 74, 130);
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.Home:hover {
+    color: rgb(81, 188, 238);
+}
 
 
 /* section 1 */
@@ -110,6 +119,14 @@
 ul {
     list-style: none;
     
+}
+
+ul a {
+    color: #ffffff;
+} 
+
+ul a:hover {
+    color: rgb(241, 241, 178);
 }
 
 .footer-row {
